@@ -1,16 +1,21 @@
-## Hi there 👋
+### Olá, sou o Matheus 👋
 
-<!--
-**MatheusMedeirosGS/MatheusMedeirosGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas (FICR) e Analista de Ativos de TI na Secretaria de Educação de Pernambuco. Escrevo scripts em Python que substituem processo manual por automação: extração de dados de documentos escaneados, tratamento de planilha, geolocalização e logística.
 
-Here are some ideas to get you started:
+**Em foco agora:** Python, automação, Docker, e me aprofundando em DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projetos em destaque:**
+
+- 🔎 [extrator-formularios-escaneados](https://github.com/MatheusMedeirosGS/extrator-formularios-escaneados) - extrai formulário escaneado com campo manuscrito pra Excel, em lote
+- 📍 [calculadora-distancias-reg](https://github.com/MatheusMedeirosGS/calculadora-distancias-reg) - planeja rota de visita técnica calculando distância real entre unidades
+- 📁 [gerenciador-pastas-drive](https://github.com/MatheusMedeirosGS/gerenciador-pastas-drive) - duplica estrutura de pastas do Google Drive sem copiar arquivo
+
+📫 matheusgmsilva.dev@gmail.com · [LinkedIn](https://linkedin.com/in/matheusmedeirossilva)
+
+---
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusMedeirosGS/MatheusMedeirosGS/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusMedeirosGS/MatheusMedeirosGS/output/github-contribution-grid-snake.svg">
+<img alt="Cobrinha comendo o grafico de contribuicoes" src="https://raw.githubusercontent.com/MatheusMedeirosGS/MatheusMedeirosGS/output/github-contribution-grid-snake.svg">
+</picture>
