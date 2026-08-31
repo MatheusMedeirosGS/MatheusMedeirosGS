@@ -1,6 +1,6 @@
-### Olá, sou o Matheus 👋
+### Olá, sou o Matheus
 
-Estudante de Análise e Desenvolvimento de Sistemas (FICR) e Analista de Ativos de TI na Secretaria de Educação de Pernambuco. Escrevo scripts em Python que substituem processo manual por automação: extração de dados de documentos escaneados, tratamento de planilha, geolocalização e logística.
+Estudante de Análise e Desenvolvimento de Sistemas (FICR) e Analista de Ativos de TI na Datainfo. Escrevo scripts em Python que substituem processo manual por automação: extração de dados de documentos escaneados, tratamento de planilha, geolocalização e logística.
 
 **Em foco agora:** Python, automação, Docker, e me aprofundando em DevOps.
 
